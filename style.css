@@ -7,12 +7,12 @@ body{
 
 }
 h1{
-    color: rgb(158, 14, 163);
+    color: red;
 
 }
 .box{
     width: 100px;
     height: 40px;
-    background-color: aliceblue;
+    background-color: black;
     border-radius: 10px;
 }
