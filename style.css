@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #123;
+    width: 100vh;
+    height: 100vh;
+
+}
+h1{
+    color: rgb(158, 14, 163);
+
+}
+.box{
+    width: 100px;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
